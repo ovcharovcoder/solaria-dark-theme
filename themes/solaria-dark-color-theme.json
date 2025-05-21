@@ -109,19 +109,6 @@
 	},
 	"tokenColors": [
 		{
-			"scope": [
-				"punctuation.section.block.begin",
-				"punctuation.section.block.end",
-				"punctuation.section.array.begin",
-				"punctuation.section.array.end",
-				"punctuation.definition.block",
-				"punctuation.definition.array"
-			],
-			"settings": {
-				"foreground": "#B0E6FC"
-			}
-		},
-		{
 			"scope": ["comment", "punctuation.definition.comment"],
 			"settings": {
 				"foreground": "#7c8aa3",
@@ -230,34 +217,44 @@
 			}
 		},
 		{
-			"scope": ["keyword.control.js", "storage.type.js"],
+			"scope": [
+				"punctuation.section.block.begin",
+				"punctuation.section.block.end",
+				"punctuation.section.array.begin",
+				"punctuation.section.array.end",
+				"punctuation.definition.block",
+				"punctuation.definition.array",
+				"punctuation.section.parens.begin",
+				"punctuation.section.parens.end",
+				"punctuation.definition.parameters.begin",
+				"punctuation.definition.parameters.end",
+				"meta.brace.round",
+				"meta.brace.square",
+				"meta.brace.curly",
+				"punctuation.definition.begin",
+				"punctuation.definition.end"
+			],
 			"settings": {
-				"foreground": "#F87979"
-			}
-		},
-		{
-			"scope": ["support.function.dom.js", "support.function.js"],
-			"settings": {
-				"foreground": "#4AB879"
-			}
-		},
-		{
-			"scope": ["variable.other.php", "punctuation.definition.variable.php"],
-			"settings": {
-				"foreground": "#7ADCA0"
-			}
-		},
-		{
-			"scope": ["support.function.construct.php", "support.function.core.php"],
-			"settings": {
-				"foreground": "#F8BB77"
-			}
-		},
-		{
-			"scope": ["keyword.control.php", "storage.type.function.php"],
-			"settings": {
-				"foreground": "#F87979"
+				"foreground": "#7BB8F0"
 			}
 		}
-	]
+	],
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		"variable": "#E6ECF5",
+		"parameter": "#F8BB77",
+		"property": "#E6ECF5",
+		"function": "#7BB8F0",
+		"method": "#7BB8F0",
+		"class": "#A78DEA",
+		"interface": "#A78DEA",
+		"enum": "#F87979",
+		"typeParameter": "#A78DEA",
+		"namespace": "#7BB8F0",
+		"macro": "#F8BB77",
+		"modifier": "#C4A1F8",
+		"regexp": "#7ADCA0",
+		"decorator": "#F87979",
+		"punctuation": "#7BB8F0"
+	}
 }
