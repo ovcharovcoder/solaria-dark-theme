@@ -21,6 +21,12 @@
 
 ---
 
+## Tips for Best Experience
+
+If bracket characters like `{}`, `()`, and `[]` appear too colorful or hard to read due to VS Code’s built-in bracket pair colorization, you can disable that feature to use the theme’s custom bracket coloring instead:
+
+---
+
 ### Disable bracket pair colorization:
 
 Open your `settings.json` and add:
