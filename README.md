@@ -1,6 +1,6 @@
 # Solaria Dark Theme 🌙
 
-**Solaria Light** is a dark theme for VS Code inspired by Nordic minimalism and the Tailwind CSS color palette. It features deep dark tones that are easy on the eyes at night, with clear contrasts for focused and productive coding.
+**Solaria Dark** is a dark theme for VS Code inspired by Nordic minimalism and the Tailwind CSS color palette. It features deep dark tones that are easy on the eyes at night, with clear contrasts for focused and productive coding.
 
 ## Features
 
