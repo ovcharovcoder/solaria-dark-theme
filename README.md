@@ -21,6 +21,16 @@
 
 ---
 
+### Disable bracket pair colorization:
+
+Open your `settings.json` and add:
+
+```json
+"editor.bracketPairColorization.enabled": false
+```
+
+---
+
 ## Development Date  
 - Developed: May 2025
 
