@@ -25,7 +25,7 @@
 
 ## Icon / Сolor Palette 
 <img src="images/icon-solaria-dark.webp" width="150px" alt="img">
-<img src="images/colors-dark.webp" width="400px" alt="img">
+<img src="images/colors-solaria-dark.webp" width="400px" alt="img">
 
 ---
 
