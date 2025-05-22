@@ -48,12 +48,6 @@ Open your `settings.json` and add:
 
 ---
 
-## Icon
-
-![icon](icon.png)
-
----
-
 ## License
 
 MIT
