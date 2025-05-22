@@ -65,5 +65,5 @@ Open your `settings.json` and add:
 
 ## License
 
-<a href="LICENSE" target="_blank">MIT</a>
+<a href="LICENSE">MIT</a>
 
