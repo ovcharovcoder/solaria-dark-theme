@@ -11,15 +11,21 @@
 ## Preview
 
 **HTML** 
-<img src="screenshot-dark-theme-1.png" alt="img"><br><br>
+<img src="images/screenshot-dark-theme-1.webp" alt="img"><br><br>
 **CSS** 
-<img src="screenshot-dark-theme-2.png" alt="img"><br><br>
+<img src="images/screenshot-dark-theme-2.webp" alt="img"><br><br>
 **SCSS** 
-<img src="screenshot-dark-theme-5.png" alt="img"><br><br>
+<img src="images/screenshot-dark-theme-4.webp" alt="img"><br><br>
 **JS** 
-<img src="screenshot-dark-theme-3.png" alt="img"><br><br>
+<img src="images/screenshot-dark-theme-3.webp" alt="img"><br><br>
 **PHP** 
-<img src="screenshot-dark-theme-4.png" alt="img">
+<img src="images/screenshot-dark-theme-5.webp" alt="img">
+
+---
+
+## Сolor Palette 
+
+<img src="images/colors-dark.webp" width="400px" alt="img">
 
 ---
 
