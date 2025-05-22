@@ -2,7 +2,7 @@
 	"name": "solaria-dark-theme",
 	"displayName": "Solaria Dark Theme",
 	"description": "A soft dark theme for VS Code with a calm color palette inspired by Nord and Tailwind — perfect for day and night coding.",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"publisher": "ovcharovcoder",
 	"repository": {
 		"type": "git",
@@ -15,10 +15,23 @@
 	"categories": [
 		"Themes"
 	],
+	"keywords": [
+		"dark",
+		"theme",
+		"vs code",
+		"vscode",
+		"tailwind",
+		"nord",
+		"minimal",
+		"calm",
+		"pastel",
+		"soft"
+	],
 	"icon": "icon.png",
 	"files": [
 		"themes",
 		"icon.png",
+		"preview.png",
 		"README.md",
 		"LICENSE",
 		"package.json"
