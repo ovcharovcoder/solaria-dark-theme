@@ -65,5 +65,5 @@ Open your `settings.json` and add:
 
 ## License
 
-MIT
+<a href="LICENSE">MIT</a>
 
