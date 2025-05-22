@@ -10,7 +10,14 @@
 
 ## Preview
 
-![screenshot](screenshot.png)
+**HTML** 
+<img src="screenshot-dark-theme-1.png" alt="img"><br><br>
+**CSS** 
+<img src="screenshot-dark-theme-2.png" alt="img"><br><br>
+**JS** 
+<img src="screenshot-dark-theme-3.png" alt="img"><br><br>
+**PHP** 
+<img src="screenshot-dark-theme-4.png" alt="img">
 
 ---
 
